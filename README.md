@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Abdulwahab Suleiman 👋
+### **Senior Security Researcher & Full-Stack Engineer**
 
-<!--
-**kabangast/kabangast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **20+ years of experience** in cybersecurity and software engineering.
 
-Here are some ideas to get you started:
+✉️ **Contact:** kabangast `[at]` gmail `[dot]` com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌍 Client & Partner Portfolio
+
+| 🇹🇿 Local | 🌐 Global |
+| :--- | :--- |
+| • Airtel | • Google (AdSense, AdMob, YouTube) |
+| • Yas | • Meta |
+| • Selcom | • PayPal |
+| • Simba SC | • Payoneer |
+| • Yanga SC | • Monetag |
+| • CRDB | • Adsterra |
